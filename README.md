@@ -1,6 +1,6 @@
 # SingleVLessToClash
 思路来自shiinakaze/SingleVmessToClash
-![Uploading wechat_2025-08-27_132031_822.png…]()
+![2025-08-27_132031_822.png]
 
 # SVTC - Simple Vmess/VLESS to Clash
 
