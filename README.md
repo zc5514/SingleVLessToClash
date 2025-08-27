@@ -29,7 +29,7 @@ pip install pyyaml
 直接运行程序启动图形界面：
 
 ```bash
-python SVTC.py
+python Simple VmessVLESS to Clash.py
 ```
 
 在图形界面中：
@@ -37,19 +37,6 @@ python SVTC.py
 2. 在文本框中粘贴节点链接（每行一个）
 3. 点击"添加节点"按钮
 4. 点击"生成配置"按钮创建 Clash 配置文件
-
-### 命令行模式
-
-处理单个节点链接：
-
-```bash
-python SVTC.py [节点链接]
-```
-
-例如：
-```bash
-python SVTC.py vmess://eyJhZGQiOiJleGFtcGxlLmNvbSIsInBzIjoiVGVzdCBWbWVzcyBTZXJ2ZXIiLCJwb3J0IjoiMTA4MCIsImlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=
-```
 
 ## 支持的协议
 
