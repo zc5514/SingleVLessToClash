@@ -1,4 +1,4 @@
-# SVTC - Simple Vmess/VLESS to Clash
+# Simple Vmess/VLESS to Clash
 改自shiinakaze/SingleVmessToClash
 界面如下
 ![](2025-08-27_132031_822.png)
