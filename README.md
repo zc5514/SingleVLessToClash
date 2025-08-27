@@ -1,8 +1,7 @@
-# SingleVLessToClash
-思路来自shiinakaze/SingleVmessToClash
-![2025-08-27_132031_822.png]
-
 # SVTC - Simple Vmess/VLESS to Clash
+改自shiinakaze/SingleVmessToClash
+界面如下
+![](2025-08-27_132031_822.png)
 
 一个简单易用的工具，用于将 Vmess 和 VLESS 节点链接转换为 Clash 配置文件。
 
